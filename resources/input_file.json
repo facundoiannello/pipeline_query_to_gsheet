@@ -1,0 +1,5 @@
+{
+"query": "select * from dwh.fact_customer_order limit 10",
+"sheet_url": "https://docs.google.com/spreadsheets/d/15e5V1JSakKUEWhuGC2c3jHB5qXFo333MBy1c1DNVf_4/"
+
+}

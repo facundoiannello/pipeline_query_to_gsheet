@@ -182,6 +182,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+resources/gsheets_credentials.json
 
 # Spyder project settings
 .spyderproject

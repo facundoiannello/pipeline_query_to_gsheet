@@ -5,7 +5,6 @@ Handles every communication with any Postgres based DB
 import os
 import sys
 import logging
-import pandas
 import psycopg2
 
 from psycopg2.extras import execute_values
